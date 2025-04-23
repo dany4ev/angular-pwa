@@ -1,3 +1,13 @@
+# References:
+
+https://medium.com/ngconf/angular-pwa-install-and-configure-858dd8e9fb07
+https://therightsw.com/angular-pwa/
+https://blog.pixelfreestudio.com/how-to-use-lighthouse-to-audit-your-pwa/
+https://blog.pixelfreestudio.com/how-to-create-a-pwa-with-angular/
+https://medium.com/@cdeniz/transforming-an-existing-angular-application-into-a-progressive-web-app-d48869ba391f
+https://www.youtube.com/watch?v=LRvZYCE3Qvw
+https://www.youtube.com/watch?v=UwtwOn4aX2w
+
 # AngularPwa
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.18.
